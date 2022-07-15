@@ -1,2 +1,0 @@
-# panda
-data resource
